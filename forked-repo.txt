@@ -1,0 +1,5 @@
+PS C:\Users\feckl\OneDrive\Documents\GitHub\simple-interest-project> curl -I https://github.com/Ro520/mcino-Introduction-to-Git-and-GitHub
+
+cmdlet Invoke-WebRequest at command pipeline position 1
+Supply values for the following parameters:
+Uri: 
