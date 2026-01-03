@@ -1,2 +1,4 @@
-PS C:\Users\feckl> git branch -v
-fatal: not a git repository (or any of the parent directories): .git
+git branch -v
+  bug-fix-revert cbd1573 Fix typo in README
+  bug-fix-typo   cbd1573 Fix typo in README
+* main           cbd1573 [ahead 1] Fix typo in README
