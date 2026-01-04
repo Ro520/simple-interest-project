@@ -37,3 +37,10 @@ InputFields       : {}
 Links             : {}
 ParsedHtml        : mshtml.HTMLDocumentClass
 RawContentLength  : 20918
+
+full_name  : Ro520/mcino-Introduction-to-Git-and-GitHub
+description: Introduction-to-Git-and-GitHub
+fork       : True
+html_url   : https://github.com/Ro520/mcino-Introduction-to-Git-and-GitHub
+language   : Python
+default_branch: main
